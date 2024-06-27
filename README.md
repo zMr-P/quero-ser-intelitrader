@@ -1,6 +1,6 @@
 ## 🎬Desafio Intellitrader🎬
 
-A Intelitrader, uma empresa de Software especializada no desenvolvimento para o mercado financeiro, propos 2 desafios. As quais: 
+A Intelitrader, uma empresa de software especializada no desenvolvimento de software para o mercado financeiro, propos 2 desafios. As quais: 
 
 #### MenorDistanciaArray
 João estava participando de uma competição de programação e lhe foi dado um problema em que ele tinha que encontrar a menor distância entre dois números de dois arrays.
@@ -33,7 +33,7 @@ Mensagem criptografada:
 - Testar online:
 
 # Encontrar projeto
-Entre no desafio que deseja e encontre a pasta Program.cs e copie o código.
+Entre no desafio que deseja navegue ao arquivo Program.cs e copie o código.
 
 #Executar o projeto
 Utilize a url https://www.programiz.com/csharp-programming/online-compiler/
