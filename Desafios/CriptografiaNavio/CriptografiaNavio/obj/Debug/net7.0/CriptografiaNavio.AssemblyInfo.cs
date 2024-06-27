@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CriptografiaNavio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+029fbcbb143b66e603e90d726e9dc008106a88eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("CriptografiaNavio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CriptografiaNavio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

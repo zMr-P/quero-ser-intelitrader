@@ -1,0 +1,15 @@
+C:\Users\paulo\OneDrive\Documentos\Aulas-Projetos\Projetos\DesafioIntelitrader\Desafios\CriptografiaNavio\CriptografiaNavio\bin\Debug\net7.0\CriptografiaNavio.exe
+C:\Users\paulo\OneDrive\Documentos\Aulas-Projetos\Projetos\DesafioIntelitrader\Desafios\CriptografiaNavio\CriptografiaNavio\bin\Debug\net7.0\CriptografiaNavio.deps.json
+C:\Users\paulo\OneDrive\Documentos\Aulas-Projetos\Projetos\DesafioIntelitrader\Desafios\CriptografiaNavio\CriptografiaNavio\bin\Debug\net7.0\CriptografiaNavio.runtimeconfig.json
+C:\Users\paulo\OneDrive\Documentos\Aulas-Projetos\Projetos\DesafioIntelitrader\Desafios\CriptografiaNavio\CriptografiaNavio\bin\Debug\net7.0\CriptografiaNavio.dll
+C:\Users\paulo\OneDrive\Documentos\Aulas-Projetos\Projetos\DesafioIntelitrader\Desafios\CriptografiaNavio\CriptografiaNavio\bin\Debug\net7.0\CriptografiaNavio.pdb
+C:\Users\paulo\OneDrive\Documentos\Aulas-Projetos\Projetos\DesafioIntelitrader\Desafios\CriptografiaNavio\CriptografiaNavio\obj\Debug\net7.0\CriptografiaNavio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Documentos\Aulas-Projetos\Projetos\DesafioIntelitrader\Desafios\CriptografiaNavio\CriptografiaNavio\obj\Debug\net7.0\CriptografiaNavio.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Documentos\Aulas-Projetos\Projetos\DesafioIntelitrader\Desafios\CriptografiaNavio\CriptografiaNavio\obj\Debug\net7.0\CriptografiaNavio.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Documentos\Aulas-Projetos\Projetos\DesafioIntelitrader\Desafios\CriptografiaNavio\CriptografiaNavio\obj\Debug\net7.0\CriptografiaNavio.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Documentos\Aulas-Projetos\Projetos\DesafioIntelitrader\Desafios\CriptografiaNavio\CriptografiaNavio\obj\Debug\net7.0\CriptografiaNavio.sourcelink.json
+C:\Users\paulo\OneDrive\Documentos\Aulas-Projetos\Projetos\DesafioIntelitrader\Desafios\CriptografiaNavio\CriptografiaNavio\obj\Debug\net7.0\CriptografiaNavio.dll
+C:\Users\paulo\OneDrive\Documentos\Aulas-Projetos\Projetos\DesafioIntelitrader\Desafios\CriptografiaNavio\CriptografiaNavio\obj\Debug\net7.0\refint\CriptografiaNavio.dll
+C:\Users\paulo\OneDrive\Documentos\Aulas-Projetos\Projetos\DesafioIntelitrader\Desafios\CriptografiaNavio\CriptografiaNavio\obj\Debug\net7.0\CriptografiaNavio.pdb
+C:\Users\paulo\OneDrive\Documentos\Aulas-Projetos\Projetos\DesafioIntelitrader\Desafios\CriptografiaNavio\CriptografiaNavio\obj\Debug\net7.0\CriptografiaNavio.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Documentos\Aulas-Projetos\Projetos\DesafioIntelitrader\Desafios\CriptografiaNavio\CriptografiaNavio\obj\Debug\net7.0\ref\CriptografiaNavio.dll
