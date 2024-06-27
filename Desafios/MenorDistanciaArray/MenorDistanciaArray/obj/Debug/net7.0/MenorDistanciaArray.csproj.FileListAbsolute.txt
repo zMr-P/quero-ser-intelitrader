@@ -1,0 +1,14 @@
+C:\Users\paulo\OneDrive\Documentos\Aulas-Projetos\Projetos\DesafioIntelitrader\Desafios\MenorDistanciaArray\MenorDistanciaArray\bin\Debug\net7.0\MenorDistanciaArray.exe
+C:\Users\paulo\OneDrive\Documentos\Aulas-Projetos\Projetos\DesafioIntelitrader\Desafios\MenorDistanciaArray\MenorDistanciaArray\bin\Debug\net7.0\MenorDistanciaArray.deps.json
+C:\Users\paulo\OneDrive\Documentos\Aulas-Projetos\Projetos\DesafioIntelitrader\Desafios\MenorDistanciaArray\MenorDistanciaArray\bin\Debug\net7.0\MenorDistanciaArray.runtimeconfig.json
+C:\Users\paulo\OneDrive\Documentos\Aulas-Projetos\Projetos\DesafioIntelitrader\Desafios\MenorDistanciaArray\MenorDistanciaArray\bin\Debug\net7.0\MenorDistanciaArray.dll
+C:\Users\paulo\OneDrive\Documentos\Aulas-Projetos\Projetos\DesafioIntelitrader\Desafios\MenorDistanciaArray\MenorDistanciaArray\bin\Debug\net7.0\MenorDistanciaArray.pdb
+C:\Users\paulo\OneDrive\Documentos\Aulas-Projetos\Projetos\DesafioIntelitrader\Desafios\MenorDistanciaArray\MenorDistanciaArray\obj\Debug\net7.0\MenorDistanciaArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Documentos\Aulas-Projetos\Projetos\DesafioIntelitrader\Desafios\MenorDistanciaArray\MenorDistanciaArray\obj\Debug\net7.0\MenorDistanciaArray.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Documentos\Aulas-Projetos\Projetos\DesafioIntelitrader\Desafios\MenorDistanciaArray\MenorDistanciaArray\obj\Debug\net7.0\MenorDistanciaArray.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Documentos\Aulas-Projetos\Projetos\DesafioIntelitrader\Desafios\MenorDistanciaArray\MenorDistanciaArray\obj\Debug\net7.0\MenorDistanciaArray.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Documentos\Aulas-Projetos\Projetos\DesafioIntelitrader\Desafios\MenorDistanciaArray\MenorDistanciaArray\obj\Debug\net7.0\MenorDistanciaArray.dll
+C:\Users\paulo\OneDrive\Documentos\Aulas-Projetos\Projetos\DesafioIntelitrader\Desafios\MenorDistanciaArray\MenorDistanciaArray\obj\Debug\net7.0\refint\MenorDistanciaArray.dll
+C:\Users\paulo\OneDrive\Documentos\Aulas-Projetos\Projetos\DesafioIntelitrader\Desafios\MenorDistanciaArray\MenorDistanciaArray\obj\Debug\net7.0\MenorDistanciaArray.pdb
+C:\Users\paulo\OneDrive\Documentos\Aulas-Projetos\Projetos\DesafioIntelitrader\Desafios\MenorDistanciaArray\MenorDistanciaArray\obj\Debug\net7.0\MenorDistanciaArray.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Documentos\Aulas-Projetos\Projetos\DesafioIntelitrader\Desafios\MenorDistanciaArray\MenorDistanciaArray\obj\Debug\net7.0\ref\MenorDistanciaArray.dll
