@@ -1,17 +1,4 @@
-## 🎬Desafio Intellitrader🎬
-
-A Intelitrader, uma empresa de software especializada no desenvolvimento de software para o mercado financeiro, propos 2 desafios. As quais: 
-
-#### MenorDistanciaArray
-João estava participando de uma competição de programação e lhe foi dado um problema em que ele tinha que encontrar a menor distância entre dois números de dois arrays.
-
-Um exemplo seria:
-
-Array 1 -> [-1, 5]
-Array 2 -> [26, 6]
-A menor distância seria a combinação do número 5 do array 1 com o número 6 do array 2, que seria 1 de distância.
-
-#### CriptografiaNavio
+## 🚢Criptografia do Navio🚢
 
 A intelitrader foi contratada para traduzir uma mensagem capturada na rede de um navio e ela está criptografada. Não sabemos que tipo de criptografia eles usaram, a única coisa que sabemos até agora, é que, a cada 8 bits, os dois últimos estão invertidos e a cada 4 bits, os 4 bits foram trocados com os próximos 4.
 
@@ -33,7 +20,7 @@ Mensagem criptografada:
 - Testar online:
 
 # Encontrar projeto
-Entre no desafio que deseja navegue ao arquivo Program.cs e copie o código.
+Navegue ao arquivo Program.cs e copie o código.
 
 #Executar o projeto
 Utilize a url https://www.programiz.com/csharp-programming/online-compiler/
